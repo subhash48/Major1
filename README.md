@@ -22,7 +22,14 @@ Palindrome: Checks if the 32-bit binary representation of a number is a palindro
 3. Mario Nolasco Cortez: Implemented the Palindrome function (`palindrome.c`).
 4. Rome Hatsushiba: Implemented the Reverse Bits function (`reverse.c`).
 
-Known Bugs or Problems: None.
+#Known Bugs or Problems: None.
 
-Group Assessment:
+#Group Assessment:
 Each group member contributed equally to the project, and all members were responsible for testing and debugging the project.
+
+#Project Repository
+
+You can find the source code for this project on GitHub:
+
+[Major1](https://github.com/subhash48/Major1.git)
+
