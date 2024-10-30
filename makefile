@@ -1,7 +1,7 @@
 # Makefile for the bitwise operation menu
 # Author: Subhash Galla, Murali Sai Vejendla, Mario Nolasco Cortez, Rome Hatsushiba
 # CSCE 3600 - Systems Programming
-# Date: March 26, 2024
+# Date: Oct 29th, 2024
 
 CC = gcc
 CFLAGS = -Wall
