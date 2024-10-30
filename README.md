@@ -2,10 +2,8 @@
 
 #Group Members:
 
-1. Subhash Galla(Major.c, Major.h and replace.c)
-2. Murali Sai Vejendla(Major.c and power.c)
-3. Mario Nolasco Cortez(Major.c and palindrome.c)
-4. Rome Hatsushiba(Major.c and reverse)
+1. Subhash Galla(Major.c, Major.h, replace.c, reverse.c)
+2. Murali Sai Vejendla(Major.c, power.c and palindrome.c)
 
 #Project Overview
 This project implements a menu-driven program where the user can select from a set of bitwise operations to perform on a given integer less than 2 billion. The operations are:
@@ -17,10 +15,8 @@ Palindrome: Checks if the 32-bit binary representation of a number is a palindro
 
 #Group Member Responsibilities
 
-1. Subhash Galla: Implemented the Replace Bit Position from Mask function (`replace.c`).
-2. Murali Sai Vejendla: Implemented the Power of 2 function (`power.c`).
-3. Mario Nolasco Cortez: Implemented the Palindrome function (`palindrome.c`).
-4. Rome Hatsushiba: Implemented the Reverse Bits function (`reverse.c`).
+1. Subhash Galla: Implemented the Replace Bit Position from Mask function (`replace.c`) and Implemented the Reverse Bits function (`reverse.c`).
+2. Murali Sai Vejendla: Implemented the Power of 2 function (`power.c`) and Implemented the Palindrome function (`palindrome.c`).
 
 #Known Bugs or Problems: None.
 
@@ -32,4 +28,3 @@ Each group member contributed equally to the project, and all members were respo
 You can find the source code for this project on GitHub:
 
 [Major1](https://github.com/subhash48/Major1.git)
-
