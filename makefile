@@ -1,5 +1,5 @@
 # Makefile for the bitwise operation menu
-# Author: Subhash Galla, Murali Sai Vejendla, Mario Nolasco Cortez, Rome Hatsushiba
+# Author: Subhash Galla, Murali Sai Vejendla
 # CSCE 3600 - Systems Programming
 # Date: Oct 29th, 2024
 
@@ -29,3 +29,4 @@ reverse.o: reverse.c major1.h
 
 clean:
 	rm -f *.o $(TARGET)
+
